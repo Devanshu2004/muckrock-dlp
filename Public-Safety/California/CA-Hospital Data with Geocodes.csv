@@ -1,4 +1,4 @@
-INTAKEID,RECVDATE,AE_CATEGORY,AE_SHORT,ADVERSE_EVENT,FINDING_DETAIL,ASPEN_FACID,NAME,ASPEN_FACTYPE_LABEL,LATITUDE,LONGITUDE
+INTAKEID,RECVDATE,AE_CATEGORY,AE_SHORT,ADVERSE_EVENT,FINDING_DETAIL,ASPEN_FACID,NAME,ASPEN_FACTYPE_LABEL,LAT,LON
 CA00819364,4-Jan-23,04 - Care Management Events,17: Stage 3/4 Pressure Ulcer,"17: Stage 3 or 4 Pressure Ulcer, Acquired After Admission, Excluding Stage 2 Ulcers Recognized upon Admission",Z2_Missing,CA220000019,ZUCKERBERG SAN FRANCISCO GENERAL HOSP & TRAUMA CTR,General Acute Care Hospital,37.756161,-122.4056655
 CA00819364,4-Jan-23,04 - Care Management Events,17: Stage 3/4 Pressure Ulcer,"17: Stage 3 or 4 Pressure Ulcer, Acquired After Admission, Excluding Stage 2 Ulcers Recognized upon Admission",Z2_Missing,CA220000019,ZUCKERBERG SAN FRANCISCO GENERAL HOSP & TRAUMA CTR,General Acute Care Hospital,37.756161,-122.4056655
 CA00819439,4-Jan-23,04 - Care Management Events,17: Stage 3/4 Pressure Ulcer,"17: Stage 3 or 4 Pressure Ulcer, Acquired After Admission, Excluding Stage 2 Ulcers Recognized upon Admission",Z2_Missing,CA030000901,MERCY HOSPITAL OF FOLSOM,General Acute Care Hospital,38.67021,-121.145382
