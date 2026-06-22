@@ -6,3 +6,4 @@ make_presentation.py
 generate_notebooks.py
 figures/
 .DS_Store
+temp.ipynb
